@@ -1,5 +1,13 @@
 # ☕ LokalPOS (SaaS Edition)
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SaaS Ready](https://img.shields.io/badge/Architecture-SaaS_Multi--Tenant-success?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Biometric_%26_Rules-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+
 LokalPOS, çay ocakları, kahvehaneler, lokaller ve küçük işletmeler için özel olarak geliştirilmiş modern, hızlı ve kullanımı kolay bir mobil **Adisyon ve Veresiye Takip** uygulamasıdır. Son güncellemelerle birlikte tam teşekküllü bir **SaaS (Software as a Service)** ürünü haline gelmiş olup, yüksek güvenlik standartlarına ve çoklu işletme (Multi-Tenant) desteğine kavuşmuştur.
 
 React Native (Expo) ve Firebase altyapısı kullanılarak inşa edilmiş olup, hem iOS hem de Android cihazlarda sorunsuz çalışacak şekilde tasarlanmıştır.
