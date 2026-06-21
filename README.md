@@ -16,17 +16,26 @@ React Native (Expo) ve Firebase altyapısı kullanılarak inşa edilmiş olup, h
 
 ## 📱 Ekran Görüntüleri
 
-<p align="center">
-  <img src="app/assets/screenshots/login.png" width="200" alt="Giriş ve Biyometrik Kilit" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="app/assets/screenshots/pos.png" width="200" alt="POS Hızlı Sipariş Ekranı" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="app/assets/screenshots/revenue.png" width="200" alt="Z Raporu ve Ciro" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="app/assets/screenshots/settings.png" width="200" alt="Katalog ve Ayarlar" />
-</p>
-
-> **Not:** Lütfen uygulamadan aldığınız ekran görüntülerini `app/assets/screenshots/` klasörüne `login.png`, `pos.png`, `revenue.png` ve `settings.png` isimleriyle kaydedin. Görüntüler yukarıda otomatik olarak belirecektir.
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <img src="app/assets/screenshots/login.png" width="220" alt="Giriş ve Biyometrik Kilit" />
+      <br /><b>Giriş & Güvenlik</b>
+    </td>
+    <td align="center">
+      <img src="app/assets/screenshots/pos.png" width="220" alt="POS Hızlı Sipariş Ekranı" />
+      <br /><b>Hızlı Sipariş (POS)</b>
+    </td>
+    <td align="center">
+      <img src="app/assets/screenshots/revenue.png" width="220" alt="Z Raporu ve Ciro" />
+      <br /><b>Ciro & Analiz</b>
+    </td>
+    <td align="center">
+      <img src="app/assets/screenshots/settings.png" width="220" alt="Katalog ve Ayarlar" />
+      <br /><b>Katalog & Yönetim</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
