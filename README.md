@@ -14,6 +14,22 @@ React Native (Expo) ve Firebase altyapısı kullanılarak inşa edilmiş olup, h
 
 ---
 
+## 📱 Ekran Görüntüleri
+
+<p align="center">
+  <img src="app/assets/screenshots/login.png" width="200" alt="Giriş ve Biyometrik Kilit" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="app/assets/screenshots/pos.png" width="200" alt="POS Hızlı Sipariş Ekranı" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="app/assets/screenshots/revenue.png" width="200" alt="Z Raporu ve Ciro" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="app/assets/screenshots/settings.png" width="200" alt="Katalog ve Ayarlar" />
+</p>
+
+> **Not:** Lütfen uygulamadan aldığınız ekran görüntülerini `app/assets/screenshots/` klasörüne `login.png`, `pos.png`, `revenue.png` ve `settings.png` isimleriyle kaydedin. Görüntüler yukarıda otomatik olarak belirecektir.
+
+---
+
 ## ✨ Özellikler
 
 ### 🛡️ Güvenlik ve Mimari
